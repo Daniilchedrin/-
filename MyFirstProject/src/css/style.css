@@ -65,47 +65,52 @@ nav{
     padding: 0px 16px;
     margin: 58px; 14px; 0px; 14px;
 }
-.infa h1{
-    font-family: Arial, sans-serif;
-    font-size: 40px;
+.me{
+  font-weight:900;
+    text-transform:uppercase;
+ font-size: 2rem;
+    font-family: Georgia, Times New Roman, serif;
     color: #263244;
-   margin-left: auto;
-    margin-right: auto;
-    width: 6em
 }
-.foto
- {
-    display: block;
-    margin-left: auto;
-    margin-right: auto 
-}
-.qw 
-{
-    border: 20px;
-      text-align: center;
-    color: #847573;
-    text-align: justify;
-    }
-.save{
-     float: left;
-    color: #2c384a;
+.text1{
+    color: #3f495a;
+    font: 14px sans-serif;
+    line-height: 5;
     text-align: center;
+    text-overflow:ellipsis;
 }
-.about me {
-   font-family: Arial, sans-serif;
-    font-size: 40px;
+.knopka input{
+    
+}
+
+.infa2{
+
+     font-weight:900;
+     text-transform:uppercase;
+    text-align:center;
+    font-size: 2rem;
     color: #263244;
-   margin-left: auto;
-    margin-right: auto;
-    width: 6em
-        
 }
-.my_box{
-    float: left;
-    line-height: 60px;
-    color: #fff;
-    margin-right: 40px;
+.ris{
+    background:url(.../img/черта заголовка.png) no-repeat;
+}
+.keys{
+    color: #5f6773;
+    font-weight:900;
+     text-transform:uppercase;
+    text-align:center;
+ font-size: 2rem;
+    
+}
+.text4{
+    color: #646b77;
     font-size: 16px;
- background: (url.../img/картинка фона.png) 90% 100%/auto 85% no-repeat;
+}
+.summa {
+    font-weight:900;
+     text-transform:uppercase;
+    text-align:center;
+    font-size: 2rem;
+    color: #1c2534;
 }
 
